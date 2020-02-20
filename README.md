@@ -1,3 +1,9 @@
 # m2i-jour1
 
-test fichier readme
+modif version locale
+modif version locale
+modif version locale
+
+test fichier readme version locale
+
+
